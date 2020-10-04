@@ -1,5 +1,5 @@
-# Assignment: Writing About Your Data
-## Introduction to Regression
+## Assignment on "Writing About Your Data"
+# Title: Introduction to Regression
 
 ## Sample
 The sample is from Cortez and Morais study about predicting forest fires using metereological data [Cortez and Morais, 2007]. The study includes data from 517 forest fires in the Natural Park Montesinho (Trás-os -Montes, in northeastern Portugal) January 2000 to December 2003, including meteorological data, the type of vegetation involved (which determines the six components of the Canadian Forest Fire Weather Index (FWI) system --see below--) and the total burned area in order to generate a model capable of predicting the burned area of small fires, which are more frequent.
